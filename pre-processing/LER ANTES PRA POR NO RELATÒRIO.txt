@@ -1,0 +1,2 @@
+Licença - CODIGO IBGE
+A licença do código é LGPL3 e dos dados convertidos Creative Commons Attribution ShareAlike. Caso utilize os dados, cite a fonte original e quem tratou os dados, como: Fonte: IBGE/Censo 2010, dados tratados por Álvaro Justen/Brasil.IO. Caso compartilhe os dados, utilize a mesma licença.
